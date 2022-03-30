@@ -1,0 +1,16 @@
+body{
+    background-color: darkgray;
+}
+img{
+    border: 5px solid #ffff;
+
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    font-family: cursive;
+}
